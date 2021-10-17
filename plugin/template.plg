@@ -36,7 +36,7 @@ Get the unBALANCE bundle.
 </FILE>
 
 <!-- Install default plugin cfg  -->
-<FILE Name="/boot/config/plugins/unbalance/unbalance.cfg">
+<FILE Name="/boot/config/plugins/unbalance/unbalance2.cfg">
 <INLINE>
 <![CDATA[
 SERVICE="disable"
