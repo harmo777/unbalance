@@ -31,7 +31,7 @@ The plugin frees up space from a disk array in unRAID systems.
 Get the unBALANCE bundle.
 -->
 <FILE Name="/boot/config/plugins/&name;/&bundle;">
-<URL>"https://github.com/jbrodriguez/unbalance/releases/download/&appver;/&bundle;"</URL>
+<URL>"https://github.com/harmo777/unbalance/releases/download/&appver;/&bundle;"</URL>
 <MD5>&md5;</MD5>
 </FILE>
 
@@ -40,7 +40,7 @@ Get the unBALANCE bundle.
 <INLINE>
 <![CDATA[
 SERVICE="disable"
-PORT="6237"
+PORT="6238"
 RUNAS="nobody"
 ]]>
 </INLINE>
